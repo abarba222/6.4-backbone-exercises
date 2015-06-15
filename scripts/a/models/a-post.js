@@ -1,4 +1,4 @@
-var post = Backbone.Model.extend ({
+var Post = Backbone.Model.extend ({
   idAttribute: '_id',
 
   defaults: {

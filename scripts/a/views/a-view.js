@@ -1,5 +1,5 @@
 export default Backbone.View.extend ({
-  template: JST.a-form,
+  template: JST.aindex,
 
   events: {
     'click button' : 'submitPost',
